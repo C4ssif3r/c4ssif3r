@@ -6,7 +6,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 [![Instagram](https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Mji_Devil)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-![hacker-mask](https://user-images.githubusercontent.com/79422726/209227483-e2a272d5-1254-4828-823e-674ba891e8eb.gif)
+![i am Mji - i am FREE ! ALWAS](https://user-images.githubusercontent.com/79422726/209227483-e2a272d5-1254-4828-823e-674ba891e8eb.gif)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ![cups](https://github-profile-trophy.vercel.app/?username=C4ssif3r&column=5&row=1&theme=onedark)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
