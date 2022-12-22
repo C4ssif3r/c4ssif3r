@@ -18,4 +18,4 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 > _CAN YOU SEE ME? xD_
 
-![ghostbear-ghost](https://user-images.githubusercontent.com/79422726/209227780-fbf22e91-a02c-4c07-916e-4dec48e97ff0.gif)
+![ZeroHeroGhost-BASE64(MJI)](https://user-images.githubusercontent.com/79422726/209227780-fbf22e91-a02c-4c07-916e-4dec48e97ff0.gif)
