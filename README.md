@@ -2,7 +2,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 [![My Git!](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/c4ssif3r)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-[![My Telegram](https://img.shields.io/badge/Telegram-100000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ZeroFoo)
+[![My Telegram](https://img.shields.io/badge/Telegram-100000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Zer0x00)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 [![My Instagram](https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Mji_Devil)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
