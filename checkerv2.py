@@ -31,7 +31,7 @@ TIMEOUT = (3.05,10) # or set 27 for default ! dont change it
 
 #else:
 #    pass
-MAX_THREADS = 2000
+MAX_THREADS = 70 #can set to 2000 or more 
 #good_file_name = input(" Enter The Good File Name For Save Good Proxies :")
 
 trd = str(MAX_THREADS)
