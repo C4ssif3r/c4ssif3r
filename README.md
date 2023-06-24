@@ -1,4 +1,4 @@
-###### Noce To See You ![Nice To See You](https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255)
+###### Nice To See You ![Nice To See You](https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255)
 
 
 [![](https://img.shields.io/static/v1?label=MJi&message=SocialAccounts&color=red)](http://127.0.0.1:9050)
